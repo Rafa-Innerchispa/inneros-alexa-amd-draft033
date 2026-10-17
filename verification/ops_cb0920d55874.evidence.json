@@ -1,0 +1,14 @@
+{
+  "ops_task": "ops_cb0920d55874",
+  "voice_request": "create a verification demo for the hackathon",
+  "provider": "Cursor",
+  "execution_model": "composer-2.5-fast",
+  "governance": "owner authorization via WhatsApp",
+  "completed_at_utc": "2026-10-17T09:50:00Z",
+  "artifacts": [
+    "demo/hackathon_verification.json",
+    "scripts/verify_demo.sh",
+    "verification/ops_cb0920d55874.evidence.json"
+  ],
+  "verify_command": "./scripts/verify_demo.sh"
+}

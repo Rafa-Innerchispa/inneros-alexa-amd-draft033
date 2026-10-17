@@ -1,0 +1,8 @@
+{
+  "purpose": "hackathon_e2e_verification",
+  "ops_task": "ops_cb0920d55874",
+  "pipeline": "Alexa → InnerOS ops → Cursor worktree",
+  "status": "completed",
+  "reversible": true,
+  "notes": "Eliminar demo/ y verification/ y revertir README para deshacer la demo."
+}
